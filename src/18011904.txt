@@ -1,0 +1,93 @@
+A dummy.txt 
+HIM dummy.txt 
+I dummy.txt dummy2.txt 
+DISLIKES dummy.txt 
+PAINFUL dummy.txt 
+PURSUES dummy.txt 
+DENOUNCING dummy.txt 
+REJECTS dummy.txt 
+ACTUAL dummy.txt 
+THOSE dummy.txt 
+RATIONALLY dummy.txt 
+TEACHINGS dummy.txt 
+FROM dummy.txt 
+HAPPINESS dummy.txt 
+DO dummy.txt 
+MISTAKEN dummy.txt dummy2.txt 
+CHOOSES dummy.txt 
+LOVES dummy.txt 
+CIRCUMSTANCES dummy.txt 
+HOW dummy.txt dummy2.txt 
+TRIVIAL dummy.txt 
+WAS dummy.txt 
+EXERCISE dummy.txt 
+IN dummy.txt 
+IS dummy.txt 
+IT dummy.txt 
+MUST dummy.txt dummy2.txt 
+FAULT dummy.txt 
+SYSTEM dummy.txt 
+RIGHT dummy.txt 
+PAIN dummy.txt 
+ALL dummy.txt dummy2.txt 
+RESULTANT dummy.txt 
+TOIL dummy.txt 
+THAT dummy.txt 
+FIND dummy.txt 
+AND dummy.txt 
+ANYONE dummy.txt 
+EXTREMELY dummy.txt 
+ANY dummy.txt 
+THERE dummy.txt 
+WHO dummy.txt 
+DESIRES dummy.txt 
+NO dummy.txt 
+HUMAN dummy.txt 
+OF dummy.txt 
+OR dummy.txt 
+PRAISING dummy.txt 
+BECAUSE dummy.txt 
+ARE dummy.txt 
+THE dummy.txt 
+PROCURE dummy.txt 
+WITH dummy.txt 
+MAN dummy.txt 
+YOU dummy.txt dummy2.txt 
+SOME dummy.txt 
+BUT dummy.txt dummy2.txt 
+THIS dummy.txt dummy2.txt 
+TO dummy.txt dummy2.txt 
+EXCEPT dummy.txt 
+COMPLETE dummy.txt 
+CONSEQUENCES dummy.txt 
+LABORIOUS dummy.txt 
+KNOW dummy.txt 
+US dummy.txt 
+ADVANTAGE dummy.txt 
+OCCUR dummy.txt 
+WHICH dummy.txt 
+TRUTH dummy.txt 
+AGAIN dummy.txt 
+PLEASURE dummy.txt dummy2.txt 
+HAS dummy.txt 
+EXPLAIN dummy.txt dummy2.txt 
+MASTER-BUILDER dummy.txt 
+EVER dummy.txt 
+BORN dummy.txt 
+GREAT dummy.txt 
+UNDERTAKES dummy.txt 
+EXPOUND dummy.txt 
+ENCOUNTER dummy.txt 
+PRODUCES dummy.txt 
+PURSUE dummy.txt 
+ONE dummy.txt 
+ACCOUNT dummy.txt 
+OCCASIONALLY dummy.txt 
+AVOIDS dummy.txt 
+OBTAIN dummy.txt 
+CAN dummy.txt 
+IDEA dummy.txt dummy2.txt 
+ANNOYING dummy.txt 
+ENJOY dummy.txt 
+NOR dummy.txt 
+NOT dummy.txt 
